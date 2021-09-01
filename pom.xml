@@ -10,7 +10,7 @@
     </parent>
     <groupId>ru.rnikonorov</groupId>
     <artifactId>InterceptException</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>InterceptException</name>
     <description>Demo project for Spring Boot</description>
     <properties>
