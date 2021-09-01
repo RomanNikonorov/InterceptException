@@ -50,6 +50,8 @@
                 <artifactId>gitflow-maven-plugin</artifactId>
                 <version>1.16.0</version>
                 <configuration>
+                    <releaseRebase>true</releaseRebase>
+                    <releaseMergeFFOnly>true</releaseMergeFFOnly>
                     <gitFlowConfig>
                         <productionBranch>master</productionBranch>
                         <developmentBranch>development</developmentBranch>
